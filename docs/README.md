@@ -3,7 +3,6 @@ A complete Remote Spy with an incredible parser that captures incoming and outgo
 
 ## Socials 💬
 - [Sigma Spy Showcase (Youtube)](https://www.youtube.com/watch?v=Q4VrpE1UfHg) 
-- [Discord](https://discord.gg/s9ngmUDWgb) 
 
 ## Loadstring
 ```lua
@@ -15,7 +14,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/depthso/Sigma-Spy/ref
 - Sigma Spy will have bugs, please report any bugs by opening an [issue](https://github.com/depthso/Sigma-Spy/issues) on Github
 - If you gave a suggestion, please post it in the [discussions](https://github.com/depthso/Sigma-Spy/discussions)
 - If you have issues with the executor's comm library (get_comm_channel, create_comm_channel), enable `ForceUseCustomComm` in Sigma Spy/Config.lua which is found in your Executor's workspace folder after running
-- AWP and Zenith is recommended to use as of 11/06/25
+- Volt(Awp.gg) and Zenith is recommended to use as of 11/06/25
 
 ## Features ⚡
 These are some of the many features Sigma Spy has
